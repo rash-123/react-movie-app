@@ -1,3 +1,3 @@
-# [react movie app](https://rash-123-react-movie-app.netlify.app/)
+# [react movie app](https://react-movie-app-project.netlify.app/)
 
 
